@@ -27,3 +27,4 @@
 - Page with a list with scientific studies.
 - Daily calorie maintenance.
 - Calorie deficit.
+- Point system to encourage weight lost.
