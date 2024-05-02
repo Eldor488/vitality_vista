@@ -71,3 +71,4 @@
 
 - Social features
 - Integration with wearable devices
+- Maybe change to USDA API
