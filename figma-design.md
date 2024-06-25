@@ -73,5 +73,4 @@
 
 ### Active Section Header Example (Exercise Log - Blue)
 
-
 Each section should have its unique color and content layout to reflect the functionality and theme of that part of the app.
